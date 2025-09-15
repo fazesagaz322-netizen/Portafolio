@@ -1,0 +1,40 @@
+.title-mini {
+    display: flex;
+    justify-content: center;
+    padding-top: 0;
+    margin-top: 0;
+    font-size: 40px;
+    border-bottom: solid 2px black;
+}
+.topics {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+}
+.me {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px; 
+}
+.yo {
+    margin: 10px 0 0 0;
+}
+.text-me {
+    max-width: 250px;
+}
+.image-me {
+    width: 270px;
+    height: 270px;
+    border-radius: 20px; 
+}
+.skills {
+    margin-right: auto;
+    border-left: solid 2px black;
+    padding-left: 10px;
+    border-bottom: 2px solid black;
+}
+
+.abilities {
+    font-size: 60px;
+}
